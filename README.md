@@ -20,7 +20,7 @@ https://github.com/liji-canva
 <!-- ![Thiago Kenji Okada's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokokada&show_icons=true&theme=dark&include_all_commits=true)
  -->
 
-#### Languages
+<!-- #### Languages
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -54,3 +54,4 @@ https://github.com/liji-canva
 #### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yuliji/)
+ -->
